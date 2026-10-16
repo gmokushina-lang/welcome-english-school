@@ -1,0 +1,7 @@
+.openai/
+.firebase/
+node_modules/
+*.zip
+.env
+.env.*
+*-service-account*.json

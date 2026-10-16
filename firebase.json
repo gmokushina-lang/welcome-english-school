@@ -1,0 +1,1 @@
+{"hosting":{"public":"dist/v2","ignore":["firebase.json","**/.*","**/node_modules/**"],"headers":[{"source":"**/*.html","headers":[{"key":"Cache-Control","value":"no-cache"}]},{"source":"/admin/**","headers":[{"key":"X-Robots-Tag","value":"noindex, nofollow"}]}]},"firestore":{"rules":"firestore.rules"}}
