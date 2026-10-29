@@ -1,0 +1,716 @@
+[
+  {
+    "id": "t3c74a0b5_1",
+    "section": "header",
+    "ru": "О школе",
+    "en": "About"
+  },
+  {
+    "id": "t3333b73d_1",
+    "section": "header",
+    "ru": "Направления",
+    "en": "Courses"
+  },
+  {
+    "id": "te054b30f_1",
+    "section": "header",
+    "ru": "Жизнь школы",
+    "en": "School life"
+  },
+  {
+    "id": "t91dd6ce_1",
+    "section": "header",
+    "ru": "Занятия и цены",
+    "en": "Lessons & prices"
+  },
+  {
+    "id": "t8b03cfd7_1",
+    "section": "header",
+    "ru": "ЗАПИСАТЬСЯ НА КУРСЫ ↗",
+    "en": "ENROL IN A COURSE ↗"
+  },
+  {
+    "id": "t8a61ab59_1",
+    "section": "header",
+    "ru": "Меню ☰",
+    "en": "Menu ☰"
+  },
+  {
+    "id": "tf86359ac_1",
+    "section": "header",
+    "ru": "Здесь начнётся ваша история",
+    "en": "Your story starts here"
+  },
+  {
+    "id": "te23cdb2_1",
+    "section": "header",
+    "ru": "ОТКРОЙ",
+    "en": "DISCOVER"
+  },
+  {
+    "id": "tbdafb2c3_1",
+    "section": "header",
+    "ru": "СВОЙ МИР",
+    "en": "YOUR WORLD"
+  },
+  {
+    "id": "t1fb00155_1",
+    "section": "header",
+    "ru": "Английский с вашей историей",
+    "en": "English with your own story"
+  },
+  {
+    "id": "t48229fbe_1",
+    "section": "header",
+    "ru": "Записаться на курсы",
+    "en": "Enrol in a course"
+  },
+  {
+    "id": "t8ff357a1_1",
+    "section": "header",
+    "ru": "welcome_29",
+    "en": "welcome_29"
+  },
+  {
+    "id": "t60978a59_1",
+    "section": "about",
+    "ru": "01 / О школе",
+    "en": "01 / About the school"
+  },
+  {
+    "id": "t336a0fd1_1",
+    "section": "about",
+    "ru": "ЗА КАЖДОЙ ШКОЛОЙ —",
+    "en": "BEHIND EVERY SCHOOL —"
+  },
+  {
+    "id": "tc109c745_1",
+    "section": "about",
+    "ru": "своя история",
+    "en": "a story of its own"
+  },
+  {
+    "id": "tafd3c085_1",
+    "section": "about",
+    "ru": "Английский нужен не только для правильных ответов. Он помогает знакомиться, учиться, работать и чувствовать себя свободнее в новом окружении.",
+    "en": "English is about more than correct answers. It helps us connect, study, work and feel at home in a new environment."
+  },
+  {
+    "id": "te4f3e5a_1",
+    "section": "about",
+    "ru": "То, во что мы верим",
+    "en": "What we believe"
+  },
+  {
+    "id": "tfb2e29ba_1",
+    "section": "about",
+    "ru": "Язык становится ближе, когда в нём появляется место для вас: ваших интересов, вопросов и маленьких побед.",
+    "en": "A language becomes yours when there is room for your interests, questions and small achievements."
+  },
+  {
+    "id": "t5c5d160c_1",
+    "section": "about",
+    "ru": "Не обязательно сразу говорить идеально.",
+    "en": "You do not have to speak perfectly from day one."
+  },
+  {
+    "id": "t4609b59f_1",
+    "section": "about",
+    "ru": "Важно начать — и продолжать с интересом.",
+    "en": "What matters is starting — and staying curious."
+  },
+  {
+    "id": "t9f569f49_1",
+    "section": "about",
+    "ru": "ЧТО СКРЫВАЕТСЯ",
+    "en": "WHAT’S BEHIND"
+  },
+  {
+    "id": "t505e9fe_1",
+    "section": "about",
+    "ru": "ЗА ПРОСТЫМ HELLO?",
+    "en": "A SIMPLE HELLO?"
+  },
+  {
+    "id": "tf4dfebd6_1",
+    "section": "about",
+    "ru": "В «Вэлком» можно прийти с разными целями: сделать первые шаги, поддержать школьный английский, подготовиться к экзамену или разобраться с профессиональной лексикой.",
+    "en": "Come to Velkom with your own goal: take your first steps, support school learning, prepare for an exam or explore professional vocabulary."
+  },
+  {
+    "id": "t8e64f836_1",
+    "section": "about",
+    "ru": "Расскажите, где английский нужен именно вам. Вместе обсудим направление, задачи и подходящий формат занятий.",
+    "en": "Tell us where you need English in your life. Together we can discuss your goals, course and lesson format."
+  },
+  {
+    "id": "t9afd9a88_1",
+    "section": "about",
+    "ru": "ЗАГЛЯНУТЬ В ЖИЗНЬ ШКОЛЫ ↗",
+    "en": "EXPLORE SCHOOL LIFE ↗"
+  },
+  {
+    "id": "tf180daac_1",
+    "section": "courses",
+    "ru": "02 / Направления обучения",
+    "en": "02 / Our courses"
+  },
+  {
+    "id": "t5be96bc5_1",
+    "section": "courses",
+    "ru": "ВАШ АНГЛИЙСКИЙ.",
+    "en": "YOUR ENGLISH."
+  },
+  {
+    "id": "t916e6df3_1",
+    "section": "courses",
+    "ru": "Ваше начало.",
+    "en": "Your beginning."
+  },
+  {
+    "id": "tb6941436_1",
+    "section": "courses",
+    "ru": "Для первых слов, уверенного разговора, учёбы и работы. Выберите свою задачу — а если сомневаетесь, напишите нам: поможем сориентироваться.",
+    "en": "For first words, confident conversations, study and work. Choose your goal, or message us for help finding a starting point."
+  },
+  {
+    "id": "taa9f1345_1",
+    "section": "courses",
+    "ru": "НАПРАВЛЕНИЕ / 01",
+    "en": "COURSE / 01"
+  },
+  {
+    "id": "t18e31b30_1",
+    "section": "courses",
+    "ru": "Английский для детей",
+    "en": "English for children"
+  },
+  {
+    "id": "t96c13cdb_1",
+    "section": "courses",
+    "ru": "От первых слов и знакомства с языком — к школьным темам. Обсудим отправную точку с учётом возраста и запроса семьи.",
+    "en": "From first words to school topics. We will discuss a starting point based on age and the family’s goals."
+  },
+  {
+    "id": "ta79f0e8c_1",
+    "section": "courses",
+    "ru": "НАПРАВЛЕНИЕ / 02",
+    "en": "COURSE / 02"
+  },
+  {
+    "id": "t9513f156_1",
+    "section": "courses",
+    "ru": "Общий английский",
+    "en": "General English"
+  },
+  {
+    "id": "t782f9b32_1",
+    "section": "courses",
+    "ru": "Для повседневных ситуаций, путешествий и общения. Слова и грамматика приобретают смысл, когда помогают выразить собственную мысль.",
+    "en": "For everyday situations, travel and conversation. Vocabulary and grammar matter when they help you express your own thoughts."
+  },
+  {
+    "id": "ta89f101f_1",
+    "section": "courses",
+    "ru": "НАПРАВЛЕНИЕ / 03",
+    "en": "COURSE / 03"
+  },
+  {
+    "id": "t70984d1b_1",
+    "section": "courses",
+    "ru": "Подготовка к экзаменам",
+    "en": "Exam preparation"
+  },
+  {
+    "id": "tcf74a6b1_1",
+    "section": "courses",
+    "ru": "Разобраться в формате, потренировать задания и уделить внимание сложным темам. Вид экзамена и сроки подготовки обсудим при записи.",
+    "en": "Understand the format, practise tasks and focus on challenging topics. We will discuss the exam and timeline before enrolment."
+  },
+  {
+    "id": "ta59f0b66_1",
+    "section": "courses",
+    "ru": "НАПРАВЛЕНИЕ / 04",
+    "en": "COURSE / 04"
+  },
+  {
+    "id": "t2d845cc5_1",
+    "section": "courses",
+    "ru": "Английский для ваших задач · ESP",
+    "en": "English for specific purposes · ESP"
+  },
+  {
+    "id": "te495a364_1",
+    "section": "courses",
+    "ru": "Профессиональная лексика и ситуации из вашей сферы. Обсудим, где нужен язык: в работе, учёбе или специальном проекте.",
+    "en": "Professional vocabulary and situations from your field. Tell us where you need English: work, study or a specialist project."
+  },
+  {
+    "id": "ta69f0cf9_1",
+    "section": "courses",
+    "ru": "НАПРАВЛЕНИЕ / 05",
+    "en": "COURSE / 05"
+  },
+  {
+    "id": "tc240a906_1",
+    "section": "courses",
+    "ru": "Высокие уровни B2–C2 и ДВИ",
+    "en": "Advanced English B2–C2 & entrance exams"
+  },
+  {
+    "id": "t585a9a5_1",
+    "section": "courses",
+    "ru": "Для тех, кому важно идти глубже: точнее формулировать мысли, работать со сложными текстами или готовиться к дополнительному вступительному испытанию.",
+    "en": "Express ideas precisely, work with complex texts or prepare for a university-specific entrance examination."
+  },
+  {
+    "id": "ta39f0840_1",
+    "section": "courses",
+    "ru": "НАПРАВЛЕНИЕ / 06",
+    "en": "COURSE / 06"
+  },
+  {
+    "id": "t23274eb3_1",
+    "section": "courses",
+    "ru": "Business Writing",
+    "en": "Business Writing"
+  },
+  {
+    "id": "tf6b5671c_1",
+    "section": "courses",
+    "ru": "Письма, деловая переписка и профессиональный тон. Разбираем, как сделать сообщение ясным, уместным и понятным адресату.",
+    "en": "Emails, business correspondence and professional tone. Explore how to make your message clear, appropriate and easy to understand."
+  },
+  {
+    "id": "tbd94f081_1",
+    "section": "life",
+    "ru": "03 / Больше, чем учебник",
+    "en": "03 / Beyond the textbook"
+  },
+  {
+    "id": "ta4404f64_1",
+    "section": "life",
+    "ru": "ЗАПОМНИТЬ СЛОВА.",
+    "en": "LEARN THE WORDS."
+  },
+  {
+    "id": "tf6edda9d_1",
+    "section": "life",
+    "ru": "Сохранить моменты.",
+    "en": "Keep the moments."
+  },
+  {
+    "id": "tfd6c532a_1",
+    "section": "life",
+    "ru": "У каждого свой повод учить язык. Иногда это важный экзамен, иногда — желание наконец поддержать разговор. Именно из таких личных историй складывается путь в английский.",
+    "en": "Everyone has a reason to learn: an important exam, or simply the wish to join a conversation. These personal stories shape the learning journey."
+  },
+  {
+    "id": "t687b8b9e_1",
+    "section": "life",
+    "ru": "Маленькие шаги. Большая радость.",
+    "en": "Small steps. Big smiles."
+  },
+  {
+    "id": "tad01a6d_1",
+    "section": "life",
+    "ru": "Моменты, которыми хочется поделиться",
+    "en": "Moments worth sharing"
+  },
+  {
+    "id": "tf51c4ea7_1",
+    "section": "life",
+    "ru": "Когда вместе — ещё интереснее",
+    "en": "Even better together"
+  },
+  {
+    "id": "t7d8d4343_1",
+    "section": "life",
+    "ru": "Улыбки, которые не нужно переводить",
+    "en": "Smiles need no translation"
+  },
+  {
+    "id": "te410881_1",
+    "section": "life",
+    "ru": "Ну что, начнём?",
+    "en": "Shall we begin?"
+  },
+  {
+    "id": "t1f0a3043_1",
+    "section": "life",
+    "ru": "За этой дверью — свои истории",
+    "en": "Every doorway opens a new story"
+  },
+  {
+    "id": "t6d147c3_1",
+    "section": "reviews",
+    "ru": "05 / Ваши слова",
+    "en": "05 / In your words"
+  },
+  {
+    "id": "t30f16e3_1",
+    "section": "reviews",
+    "ru": "БОЛЬШЕ, ЧЕМ ОТЗЫВЫ.",
+    "en": "MORE THAN REVIEWS."
+  },
+  {
+    "id": "t873e0380_1",
+    "section": "reviews",
+    "ru": "Записки с теплом.",
+    "en": "Notes from the heart."
+  },
+  {
+    "id": "t9e485ba1_1",
+    "section": "reviews",
+    "ru": "Самые важные слова о занятиях — от тех, кто учится. Здесь собраны фрагменты сообщений учеников и обратная связь о преподавании.",
+    "en": "The most meaningful words about lessons come from learners. Here are excerpts from their messages and feedback on teaching."
+  },
+  {
+    "id": "t7eb9182a_1",
+    "section": "reviews",
+    "ru": "Тёплые слова",
+    "en": "Kind words"
+  },
+  {
+    "id": "t93091968_1",
+    "section": "reviews",
+    "ru": "Ведь именно Вы нас и воспитали. Вы когда-то поверили в нас. Я Вам благодарен безмерно! Вы для меня учитель номер 1! Я горжусь, что навыки, которые есть у меня есть сейчас, разработаны Вами! Пусть поздно, но все же! Я Вас очень сильно люблю и крепко обнимаю 🤗 Всегда рад помочь!",
+    "en": "You helped shape who we are. You believed in us once, and I am endlessly grateful! You are my number one teacher! I am proud that the skills I have today were developed by you. Late as this may be, I love you very much and send you a big hug 🤗 Always happy to help!"
+  },
+  {
+    "id": "td868a274_1",
+    "section": "reviews",
+    "ru": "Из сообщения ученика",
+    "en": "From a learner’s message"
+  },
+  {
+    "id": "t61fa93b9_1",
+    "section": "reviews",
+    "ru": "Фрагмент переписки",
+    "en": "Excerpt from a conversation"
+  },
+  {
+    "id": "teed06c08_1",
+    "section": "reviews",
+    "ru": "Отзыв о занятиях с Надей",
+    "en": "Feedback on lessons with Nadia"
+  },
+  {
+    "id": "t81ceb0f9_1",
+    "section": "reviews",
+    "ru": "О преподавателе",
+    "en": "About the teacher"
+  },
+  {
+    "id": "t3bbb2015_1",
+    "section": "reviews",
+    "ru": "Вы шикарный преподаватель, Вы интересный, харизматичный человек. Не удивилась, что Вы ей понравились.",
+    "en": "You are an amazing teacher, an interesting and charismatic person. I wasn’t surprised that she liked you."
+  },
+  {
+    "id": "t4e0ff67c_1",
+    "section": "reviews",
+    "ru": "Из сообщения о преподавателе",
+    "en": "From a message about the teacher"
+  },
+  {
+    "id": "t1288c046_1",
+    "section": "reviews",
+    "ru": "Фрагмент сообщения",
+    "en": "Message excerpt"
+  },
+  {
+    "id": "t68f71009_1",
+    "section": "reviews",
+    "ru": "Маленькая большая победа",
+    "en": "A little big achievement"
+  },
+  {
+    "id": "tc60378b8_1",
+    "section": "reviews",
+    "ru": "…у меня 4 за экзамен по английскому. Экзамен состоял также из 3х частей. И именно за устную часть у меня 5! Спасибо Вам огромное. Мы в этот раз так продуктивно поработали. Меня очень удивило, что я в этот раз почти не молчала, а постоянно что-то говорила)",
+    "en": "…I got a 4 in my English exam. The exam had three parts, and I got a 5 for speaking! Thank you so much. We worked so productively this time. I was surprised that I hardly stayed silent and kept speaking instead :)"
+  },
+  {
+    "id": "t1b3e5ed9_1",
+    "section": "reviews",
+    "ru": "Из сообщения ученицы",
+    "en": "From a learner’s message"
+  },
+  {
+    "id": "tc7e0782c_1",
+    "section": "reviews",
+    "ru": "Фрагмент сообщения об экзамене",
+    "en": "Excerpt from a message about an exam"
+  },
+  {
+    "id": "tcc70efd0_1",
+    "section": "reviews",
+    "ru": "Преподаватель курса",
+    "en": "Course tutor"
+  },
+  {
+    "id": "t5e381c3c_1",
+    "section": "reviews",
+    "ru": "Обратная связь о работе Nadia",
+    "en": "Feedback on Nadia’s work"
+  },
+  {
+    "id": "ta055cc05_1",
+    "section": "details",
+    "ru": "07 / Стоимость",
+    "en": "07 / Prices"
+  },
+  {
+    "id": "tf41ddba5_1",
+    "section": "details",
+    "ru": "ИНДИВИДУАЛЬНЫЕ ЗАНЯТИЯ",
+    "en": "INDIVIDUAL LESSONS"
+  },
+  {
+    "id": "t325cf606_1",
+    "section": "details",
+    "ru": "от 1 500 ₽",
+    "en": "from ₽1,500"
+  },
+  {
+    "id": "t31e0534_1",
+    "section": "details",
+    "ru": "/ 40 минут",
+    "en": "/ 40 minutes"
+  },
+  {
+    "id": "tec541c5d_1",
+    "section": "details",
+    "ru": "Общий английский · ESP · Высокие уровни B2–C2 · ДВИ · Business Writing",
+    "en": "General English · ESP · Advanced B2–C2 · University entrance exams · Business Writing"
+  },
+  {
+    "id": "tad3983d3_1",
+    "section": "details",
+    "ru": "Указана начальная стоимость индивидуального занятия. Точную цену по вашему направлению, расписание и условия уточним до записи. Стоимость других форматов — по запросу.",
+    "en": "This is the starting price for an individual lesson. We will confirm the course price, schedule and terms before enrolment. Ask about pricing for other formats."
+  },
+  {
+    "id": "te1fe4379_1",
+    "section": "details",
+    "ru": "ВЫБРАТЬ ЗАНЯТИЯ",
+    "en": "CHOOSE YOUR LESSONS"
+  },
+  {
+    "id": "t55e0b84c_1",
+    "section": "details",
+    "ru": "Занятия в группе",
+    "en": "Group lessons"
+  },
+  {
+    "id": "tdfd11af7_1",
+    "section": "details",
+    "ru": "ОНЛАЙН-ГРУППЫ",
+    "en": "ONLINE GROUPS"
+  },
+  {
+    "id": "t79f76bf7_1",
+    "section": "details",
+    "ru": "от 4 700 ₽",
+    "en": "from ₽4,700"
+  },
+  {
+    "id": "tcd8cc44d_1",
+    "section": "details",
+    "ru": "/ месяц",
+    "en": "/ month"
+  },
+  {
+    "id": "t9abf8df1_1",
+    "section": "details",
+    "ru": "Только онлайн на платформе Zoom",
+    "en": "Online only, on Zoom"
+  },
+  {
+    "id": "tfadc659d_1",
+    "section": "details",
+    "ru": "9–11 класс · C1 Gateway",
+    "en": "Grades 9–11 · C1 Gateway"
+  },
+  {
+    "id": "t38716e81_1",
+    "section": "details",
+    "ru": "7–8 класс · Project 5",
+    "en": "Grades 7–8 · Project 5"
+  },
+  {
+    "id": "t2d69ea70_1",
+    "section": "details",
+    "ru": "6–7 класс · Project 4",
+    "en": "Grades 6–7 · Project 4"
+  },
+  {
+    "id": "tccb88b64_1",
+    "section": "details",
+    "ru": "3–4 класс · Project 2",
+    "en": "Grades 3–4 · Project 2"
+  },
+  {
+    "id": "t3272c6f9_1",
+    "section": "details",
+    "ru": "6–7 лет",
+    "en": "Ages 6–7"
+  },
+  {
+    "id": "ta9407a2b_1",
+    "section": "details",
+    "ru": "В объявлении школы указан старт групп с сентября. Наличие мест, расписание и подходящую группу уточняйте при обращении.",
+    "en": "The school announcement lists a September start. Please ask about available places, schedules and a suitable group."
+  },
+  {
+    "id": "t9765470c_1",
+    "section": "details",
+    "ru": "Предоплата не обязательна, но возможна для сохранения места. Условия сотрудничества размещены в обсуждениях сообщества школы.",
+    "en": "Advance payment is optional and may be used to reserve a place. Please see the school community discussions for the terms."
+  },
+  {
+    "id": "tb9709989_1",
+    "section": "details",
+    "ru": "УЗНАТЬ О МЕСТАХ",
+    "en": "ASK ABOUT PLACES"
+  },
+  {
+    "id": "t9ef76b77_1",
+    "section": "faq",
+    "ru": "Перед первым hello",
+    "en": "Before your first hello"
+  },
+  {
+    "id": "t5605395e_1",
+    "section": "faq",
+    "ru": "ЕСТЬ ВОПРОС?",
+    "en": "HAVE A QUESTION?"
+  },
+  {
+    "id": "tde142215_1",
+    "section": "faq",
+    "ru": "Не знаю свой уровень. Можно записаться?",
+    "en": "I do not know my level. Can I enquire?"
+  },
+  {
+    "id": "t80f0ef54_1",
+    "section": "faq",
+    "ru": "Да. Напишите, изучали ли вы английский раньше и для чего он нужен сейчас. Обсудим, с чего начать.",
+    "en": "Yes. Tell us about your previous learning and what you need English for now. We will discuss where to begin."
+  },
+  {
+    "id": "tf034493f_1",
+    "section": "faq",
+    "ru": "Можно заниматься под конкретную задачу?",
+    "en": "Can lessons focus on a specific goal?"
+  },
+  {
+    "id": "t2791a62c_1",
+    "section": "faq",
+    "ru": "Для этого есть индивидуальные занятия: общий английский, ESP, Business Writing, высокие уровни B2–C2 и подготовка к ДВИ. Расскажите о задаче, чтобы уточнить возможности.",
+    "en": "Individual options include General English, ESP, Business Writing, advanced B2–C2 and university entrance preparation. Tell us your goal so we can discuss the options."
+  },
+  {
+    "id": "tf2e42bc7_1",
+    "section": "faq",
+    "ru": "Как узнать расписание и окончательную цену?",
+    "en": "How do I find the schedule and final price?"
+  },
+  {
+    "id": "t6f02f137_1",
+    "section": "faq",
+    "ru": "Напишите в сообщество школы. Уточним направление, возраст ученика, удобное время и стоимость до начала занятий.",
+    "en": "Message the school. We will clarify the course, learner’s age, preferred times and price before lessons begin."
+  },
+  {
+    "id": "te39c882a_1",
+    "section": "contact",
+    "ru": "08 / На связи",
+    "en": "08 / Get in touch"
+  },
+  {
+    "id": "t317acdfc_1",
+    "section": "contact",
+    "ru": "ПЕРВОЕ СЛОВО —",
+    "en": "THE FIRST WORD IS"
+  },
+  {
+    "id": "taba5f854_1",
+    "section": "contact",
+    "ru": "Напишите нам в VK: расскажите о своей цели, возрасте ученика и удобном времени. Обсудим занятия и ответим на вопросы до записи.",
+    "en": "Message us on VK with your goals, the learner’s age and preferred times. We will discuss lessons and answer your questions before enrolment."
+  },
+  {
+    "id": "td5a8fe99_1",
+    "section": "contact",
+    "ru": "НАПИСАТЬ ШКОЛЕ В VK",
+    "en": "MESSAGE THE SCHOOL ON VK"
+  },
+  {
+    "id": "t4bd55257_1",
+    "section": "courses",
+    "ru": "Aa",
+    "en": "Aa"
+  },
+  {
+    "id": "t4f9f2cab_1",
+    "section": "courses",
+    "ru": "hello",
+    "en": "hello"
+  },
+  {
+    "id": "tf950d27b_1",
+    "section": "courses",
+    "ru": "ESP",
+    "en": "ESP"
+  },
+  {
+    "id": "ta44db49a_1",
+    "section": "courses",
+    "ru": "B2+",
+    "en": "B2+"
+  },
+  {
+    "id": "tc3671a75_1",
+    "section": "courses",
+    "ru": "Dear…",
+    "en": "Dear…"
+  },
+  {
+    "id": "tf614271b_1",
+    "section": "reviews",
+    "ru": "In their own words",
+    "en": "In their own words"
+  },
+  {
+    "id": "t6caa5cb7_1",
+    "section": "reviews",
+    "ru": "I forgot text you about my lessons with Nadia, she is so cool!! Our lessons sometimes looks like therapy with psychologist 🤣🤣🤣 I like it",
+    "en": "I forgot text you about my lessons with Nadia, she is so cool!! Our lessons sometimes looks like therapy with psychologist 🤣🤣🤣 I like it"
+  },
+  {
+    "id": "td5163236_1",
+    "section": "reviews",
+    "ru": "Yana",
+    "en": "Yana"
+  },
+  {
+    "id": "t6df72e4b_1",
+    "section": "reviews",
+    "ru": "Tutor’s comments",
+    "en": "Tutor’s comments"
+  },
+  {
+    "id": "t73f3d27_1",
+    "section": "reviews",
+    "ru": "Dear Nadia, Thank you very much for this task. It has been completed to an excellent standard – detailed, thorough, with many interesting points which prove that you took the course content on board and that you are a dedicated and considerate teacher, able to reflect and to learn from that. Thank you for your kind words and even more for your very active participation and a professional attitude during the course. Thank you!",
+    "en": "Dear Nadia, Thank you very much for this task. It has been completed to an excellent standard – detailed, thorough, with many interesting points which prove that you took the course content on board and that you are a dedicated and considerate teacher, able to reflect and to learn from that. Thank you for your kind words and even more for your very active participation and a professional attitude during the course. Thank you!"
+  },
+  {
+    "id": "te1931d3e_1",
+    "section": "contact",
+    "ru": "hello!",
+    "en": "hello!"
+  }
+]
